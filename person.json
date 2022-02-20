@@ -1,0 +1,8 @@
+{
+    "firstName": "Danu",
+    "middleName": "Budi",
+    "lastName": "Raharjo",
+    "age": 20,
+    "married": true,
+    "hobbies": ["Berenang", "Futsal", "Basket"]
+}
